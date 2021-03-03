@@ -1,6 +1,7 @@
 import pandas as pd
 from bs4 import *
 import requests
+import re
 
 
 # scrape reddit list
